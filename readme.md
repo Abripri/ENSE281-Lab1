@@ -1,21 +1,21 @@
 ##  readme.md file for the Ense 281 Lab 1 assignment
 
---
+---
 
 ### Bold
 **This text is bold**
 
---
+---
 
 ### Italic
 *This text is in italics*
 
---
+---
 
 ### Block Quote
 > This is a block quote
 
---
+---
 
 ### Link
 
